@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: basic2D
+  m_Name: tint-2d
   m_Shader: {fileID: -6465566751694194690, guid: eae301af654e06040963555bd741c4df,
     type: 3}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
@@ -88,4 +88,4 @@ Material:
     - _Color: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _Tinta: {r: 0.8679245, g: 0.35847607, b: 0.25792095, a: 1}
+    - _Tinta: {r: 0.8679245, g: 0.35847604, b: 0.25792092, a: 1}
